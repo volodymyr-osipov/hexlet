@@ -1,0 +1,9 @@
+#node.JS
+/node_modules
+
+# System
+.idea
+
+#config
+build
+
